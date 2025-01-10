@@ -20,6 +20,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
   - [SEO](#seo)
   - [Translation](#translation)
   - [Validation](#validation)
+  - [Tools](#tools)
   - [Acknowledgements](#acknowledgements)
 
 **[⬆ back to top](#contents)**
@@ -48,6 +49,10 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
 ## Validation
 
 - [Zog](https://github.com/Oudwins/zog) - A [Zod](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+
+## Tools
+
+- [Templiér](https://github.com/romshark/templier) - `templ generate --watch` wrapper with custom watchers for CSS/JS/etc. and in-browser error reporting.
 
 ## Acknowledgements
 
